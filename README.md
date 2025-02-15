@@ -1,8 +1,8 @@
-## **Text Generation using Hugging Face Inference API**
+# **Text Generation using Hugging Face Inference API**
 
 This project uses the Hugging Face InferenceClient to generate text based on user-inputted questions. It leverages models like mistralai/Mistral-7B-Instruct-v0.3 for natural language processing.
 
-**Features**
+## **Features**
 
 - Interactive text generation using Hugging Face models
 
@@ -12,14 +12,14 @@ This project uses the Hugging Face InferenceClient to generate text based on use
 
 - Supports customizable parameters like max_new_tokens and temperature
 
-**Example Usage**
+## **Example Usage**
 
-Ask Ask your question: Where is ISKON Temple located in Bangalore?
+**Ask Ask your question:** Where is ISKON Temple located in Bangalore?
 
-Response: The ISKCON Temple in Bangalore is located at Hare Krishna Hill, Rajajinagar
+**Response:** The ISKCON Temple in Bangalore is located at Hare Krishna Hill, Rajajinagar
 
-**Customization**
+## **Customization**
 
-- Change the repo_id to use a different Hugging Face model.
+- Change the **repo_id** to use a different Hugging Face model.
 
-- Adjust max_new_tokens and temperature for different response styles.
+- Adjust** max_new_tokens** and **temperature** for different response styles.
