@@ -15,4 +15,11 @@ This project uses the Hugging Face InferenceClient to generate text based on use
 **Example Usage**
 
 Ask Ask your question: Where is ISKON Temple located in Bangalore?
+
 Response: The ISKCON Temple in Bangalore is located at Hare Krishna Hill, Rajajinagar
+
+**Customization**
+
+- Change the repo_id to use a different Hugging Face model.
+
+- Adjust max_new_tokens and temperature for different response styles.
