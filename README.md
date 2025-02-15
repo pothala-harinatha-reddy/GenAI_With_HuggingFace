@@ -22,4 +22,4 @@ This project uses the Hugging Face InferenceClient to generate text based on use
 
 - Change the **repo_id** to use a different Hugging Face model.
 
-- Adjust** max_new_tokens** and **temperature** for different response styles.
+- Adjust **max_new_tokens** and **temperature** for different response styles.
